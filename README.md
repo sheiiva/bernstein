@@ -36,4 +36,4 @@ Examples of such platforms include (but are not limited to) Amazon Elastic Kuber
 
 Installing a full Kubernetes cluster locally is complex. Minikube is also not built for multi-node clusters (which you needfor your project).
 
-Author [**Corentin COUTRET-ROZET**](https://github.com/sheiiva)
+Author [**Corentin COUTRET-ROZET**](https://github.com/sheiiva) and [**Hugo LACHKAR**](https://github.com/HugoTkBCN)
